@@ -1,0 +1,93 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Light Theme</title>
+<link href="css/STRBgridtemplate.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Header -->
+  <header class="header">
+    <h4 class="logo">
+    SideTracked Research Brewery</h4>
+  </header>
+  <!-- Hero Section -->
+  <section class="intro">
+    <div class="column">
+      <h3 data_temp_dwid="1">The Mission</h3>
+    <p>Create quality beer and quality conversation to change views on beer and humanity.</p></div>
+    <div class="column">
+      <p>It all started on summer vaction with a girlfriend, a Border Collie, and a Rocket Scientist.    </p>
+    </div>
+  </section>
+  <!-- Stats Gallery Section -->
+  <div class="gallery">
+    <div class="thumbnail"> <a href="#"><img src="images/259ECF86-6AC9-4B70-9BF0-FAFC760CB550.jpg" alt="" width="640" class="cards"/></a>
+      <h4>Sherman Brown</h4>
+      <p class="tag">BJCP 2015: 16C American Brown Ale</p>
+      <p class="text_column">ff</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="Crankcase.jpg" alt="" width="640" height="640" class="cards"/></a>
+      <h4>Crankcase Leakage</h4>
+      <p class="tag">BJCP 2015: 20C Imperial Stout</p>
+      <p class="text_column">2013 Arkansas Beer Challenge</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>ANtiFreeze IPA</h4>
+      <p class="tag">BJCP 2015: 21A American IPA</p>
+      <p class="text_column">2013 Arkansas Beer Challenge</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="Pale.jpg" alt="" width="640" class="cards"/></a>
+      <h4>Painted Pale</h4>
+      <p class="tag">BJCP 2015: 18B American Pale Ale</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+  </div>
+  <div class="gallery">
+    <div class="thumbnail"> <a href="#"><img src="images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>Chell's Wheat Truck</h4>
+      <p class="tag">BJCP 2015: 1D American Wheat Beer</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="Amber.jpg" alt="" width="640" height="640" class="cards"/></a>
+      <h4>Amber Rambler </h4>
+      <p class="tag">BJCP 2015: 19C American Amber Ale</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+  </div>
+  <!-- Footer Section -->
+  <footer id="contact">
+    <p class="hero_header">GET IN TOUCH WITH ME</p>
+    <div class="button"><a href="mailto:brewery@sidetrackedworks.com">EMAIL ME </a></div>
+        <div class="fb-follow" data-href="https://www.facebook.com/Sidetrackedresearchbrewery" data-layout="button" data-size="large" data-show-faces="false"></div>
+    <a href="https://twitter.com/STR_Brewery" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a href="https://untappd.com/SideTrackedResearchBrewing?ref=followbtn"><img src="https://d1c8v1qci5en44.cloudfront.net/widgets/ut_follow_sm.png" /></a>
+  </footer>
+  <!-- Copyrights Section -->
+  <div class="copyright">&copy;2015 - <strong>GRID</strong></div>
+</div>
+<!-- Main Container Ends -->
+</body>
+</html>
